@@ -1,0 +1,12 @@
+.bgf{
+  background:#eee url("img/meniu_dviratis.png");   
+  height: 550px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+nav{
+  display: inline-block;
+  text-align: center;
+
+}
